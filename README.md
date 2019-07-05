@@ -11,6 +11,7 @@
 
 |  文章名称及链接   | 代码 / 数据文件|
 |  :----  | ----  |
+| [NBA球星为啥那么多顶薪？数据可视化为你揭晓真相](https://mp.weixin.qq.com/s/RvC2OpXo9qABtk_tD7AEZQ)  | [请点击链接](https://github.com/Brucepk/nba-data/blob/master/NBA.py)|
 | [Python批量下载无版权图片](https://www.pyzhishiquan.com/no-copyright-image.html)  | [请点击链接](https://github.com/Brucepk/download-no-copyright-image/blob/master/pixabay.py)|
 | [蔡徐坤学学吴亦凡，Python可视化分析「大碗宽面」b站弹幕和网易云音乐评论](https://www.pyzhishiquan.com/noodles-skrrr.html)  | [请点击链接](https://github.com/Brucepk/Kris-noodles)|
 | [用Python画出世界地图和中国地图](https://www.pyzhishiquan.com/drawing-map.html)  | [请点击链接](https://github.com/Brucepk/DrawingMap)|
